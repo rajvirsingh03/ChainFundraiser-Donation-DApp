@@ -2,7 +2,7 @@
 
 This Decentralized application (DAPP) demonstrates an application for people to get donations for their projects or humanity use cases.
 
--Images of the project: ![Images](images/)
+- Images of the project: ![Images](images/)
 
 ##
 
