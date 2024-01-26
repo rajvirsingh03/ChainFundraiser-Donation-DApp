@@ -1,6 +1,7 @@
 # Images for the Overall Project 
 
 - Home Page(Wallet not Connected)
+
 ![Home Page(Wallet Not Connected)](Home_Page_Connect.png?raw=true)
 
 - Home Page(Wallet Connected)
